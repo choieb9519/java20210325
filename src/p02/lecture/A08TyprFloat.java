@@ -18,9 +18,9 @@ public class A08TyprFloat {
 		//음수 최소값: 
 		System.out.println(-Float.MIN_VALUE);
 		//양의 무한대:
-		System.out.println();
+		System.out.println(Float.POSITIVE_INFINITY);
 		//음의 무한대:
-		System.out.println();
+		System.out.println(Float.NEGATIVE_INFINITY);
 		//NaN (Not a Noumber):
 		System.out.println(Float.NoN);
 	}

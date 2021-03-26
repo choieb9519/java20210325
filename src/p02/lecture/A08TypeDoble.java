@@ -19,6 +19,7 @@ public class A08TypeDoble {
 		System.out.println(Double.POSITIVE_INFINITY);
 		//음의 무한대
 		System.out.println(Double.NEGATIVE_INFINITY);
-		//NaN
+		//NaN (Not a Noumber):
+		System.out.println(Float.NoN);
 	}
 }
