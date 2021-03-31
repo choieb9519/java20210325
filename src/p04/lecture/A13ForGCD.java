@@ -1,5 +1,7 @@
 package p04.lecture;
 
+import java.util.Scanner;
+
 public class A13ForGCD {
 	public static void main(String[] args) {
 		// 최대공약수 : greatest common divisor
