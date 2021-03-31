@@ -1,6 +1,6 @@
 package p04.textbook;
 
-public class FoeMultiplicationTableExample1 {
+public class ForMultiplicationTableExample1 {
 	public static void main(String[] args) {
 		//2단 ~ 9단 구구단
 		for (int m = 2; m <= 9; m++) {
