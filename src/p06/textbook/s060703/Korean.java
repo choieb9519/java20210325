@@ -5,8 +5,8 @@ public class Korean {
 	String name;
 	String ssn;
 	
-	public Korean(String n, String s) {
-		name = n;
-		ssn = s;
+	public Korean(String name, String san) {
+		this.name = name;
+		this.ssn = ssn;
 	}
 }
