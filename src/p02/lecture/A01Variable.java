@@ -1,7 +1,7 @@
 package p02.lecture;
 
 public class A01Variable {
-	public static void mainString[] args){
+	public static void main(String[] args) {
 		//변수 값을 저장하는 공간의 이름
 		//변수 선언 방법:
 		//type명 변수명;
@@ -21,5 +21,5 @@ public class A01Variable {
 		System.out.println(a); //5
 		a = 7;
 		System.out.println(a); //7
-		
+	}
 }
