@@ -9,7 +9,7 @@ public class A02Constructor {
 	자동으로 추가됨 */
 	
 	public static void main(String[] args) {
-		Student s1 = new Student(S);
+		Student s1 = new Student();
 		s1.name = "java";
 		
 		Student s2 = new Student("java");

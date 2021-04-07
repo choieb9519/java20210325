@@ -5,7 +5,7 @@ public class Exercise01 {
 		int max = Integer.MIN_VALUE;
 		int min = Integer.MAX_VALUE; //배열의 값 보다 큰 값이 초기 값이여야 함
 		int sum = 0;
-		int avg = 0; 
+		
 		
 		int [] array = {1, 5, 3, 8, 2};
 		

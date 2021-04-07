@@ -1,5 +1,7 @@
 package p05.lecture;
 
+import java.util.Arrays;
+
 public class A10Array {
 	public static void main(String[] args) {
 		int i;
