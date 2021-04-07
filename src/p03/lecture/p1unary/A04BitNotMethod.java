@@ -12,15 +12,10 @@ public class A04BitNotMethod {
 		
 		//함수호출:
 		//funcName(1, 2);
-	}	
-	
-	
-	public static int funcName(int para1, int para2) {
-		//statements...;
-		return 3;
 		
-	//자바 매소드 호출: 
-	funcName(5, 6);
+		//자바 매소드 호출: 
+		funcName(5, 6);
+	}	
 	
 	public static String funcName(int para1, int para2) {
 		return "hello";

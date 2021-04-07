@@ -12,7 +12,7 @@ public class A02Overflow {
 		long x = 20_0000_0000;
 		long y = 20_0000_0000;
 		
-		int z = x + y;
+		long z = x + y;
 		System.out.println(z);
 	}
 }

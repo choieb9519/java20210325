@@ -6,7 +6,7 @@ public class AccuracyExample2 {
 		
 		int totalPieses = apple * 10; //양 변을 정수로
 		int number = 7;
-		int temp = totalPieces - number;
+		int temp = totalPieses - number;
 		//82p
 		double result = temp/10.0;
 		
