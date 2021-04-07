@@ -22,6 +22,6 @@ public class A08TyprFloat {
 		//음의 무한대:
 		System.out.println(Float.NEGATIVE_INFINITY);
 		//NaN (Not a Noumber):
-		System.out.println(Float.NoN);
+		System.out.println(Float.NaN);
 	}
 }

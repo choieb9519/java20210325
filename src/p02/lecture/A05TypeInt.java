@@ -15,7 +15,7 @@ public class A05TypeInt {
 		int intVar;
 		intVar = 0;
 		intVar = 2147483647;
-		intVar = 2147483648; //not ok
+//		intVar = 2147483648; //not ok
 		intVar = -2147483648;
 		intVar = -2147483647; //not ok
 		

@@ -1,9 +1,9 @@
 package p02.lecture;
 
-public class A08TypeDoble {
+public class A09TypeDoble {
 	public static void main(String[] args) {
 		
-		double x = 3.14 //실수 literal은 double
+		double x = 3.14; //실수 literal은 double
 				//더 큰 저장공간을 가지고 있어서
 				//더 많이 저장 할 수 있고 더 정교하게 표현 할 수 있음
 		
@@ -19,7 +19,7 @@ public class A08TypeDoble {
 		System.out.println(Double.POSITIVE_INFINITY);
 		//음의 무한대
 		System.out.println(Double.NEGATIVE_INFINITY);
-		//NaN (Not a Noumber):
-		System.out.println(Float.NoN);
+		//NaN (Not a Nuumber):
+		System.out.println(Float.NaN);
 	}
 }

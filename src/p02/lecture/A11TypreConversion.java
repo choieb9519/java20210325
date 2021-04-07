@@ -1,17 +1,17 @@
 package p02.lecture;
 
-public class A01TypreConversion {
+public class A11TypreConversion {
 	public static void main(String[] args) {
 		
 		//자동 형변환
 		byte byteVar1 = 100;
-		short shortVar = bytrVar1;
+		short shortVar1 = byteVar1;
 		int intVar1 = shortVar1;
-		intVar = byteVar1;
+		intVar1 = byteVar1;
 		
-		long longVar = intVar1;
+		long longVar1 = intVar1;
 		longVar1 = shortVar1;
-		longVar = byteVar1;
+		longVar1 = byteVar1;
 		
 		////////////////////
 		

@@ -8,9 +8,9 @@ public class A04TypeShort {
 		//최대값 : 0111 1111 1111 1111 == 32,767
 		
 		short shortVar;
-		short Var = 0;
-		short Var = -32768;
-		short Var = 32767;
+		shortVar = 0;
+		shortVar = -32768;
+		shortVar = 32767;
 		//short Var = 36768; //not ok
 		//short Var = -32769; //not ok
 	}
