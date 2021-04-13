@@ -1,4 +1,4 @@
-package p07.textbook;
+package p07.textbook.s0702;
 
 public class DmbCellPhoneExample {
 	public static void main(String[] args) {

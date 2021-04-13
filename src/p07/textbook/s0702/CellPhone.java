@@ -1,4 +1,4 @@
-package p07.textbook;
+package p07.textbook.s0702;
 
 public class CellPhone {
 	//필드
