@@ -9,7 +9,7 @@ public class A02Constructor {
 	자동으로 추가됨 */
 	
 	public static void main(String[] args) {
-		Student s1 = new Student();
+		Student s1 = new Student(); //student에 생성자가 없어서
 		s1.name = "java";
 		
 		Student s2 = new Student("java");
