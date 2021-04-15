@@ -5,7 +5,7 @@ public class A03AccessModifireExample {
 		MyClass1 o1 = new MyClass1();
 		
 		System.out.println(o1.i);
-		System.out.println(o1.j); //private  x
+//		System.out.println(o1.j); //private  x
 		System.out.println(o1.k); //default  o
 		
 	}

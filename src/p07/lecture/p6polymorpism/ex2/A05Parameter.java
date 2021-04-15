@@ -7,7 +7,7 @@ public class A05Parameter {
 		
 		method(k1); //cat이 넘어감
 		
-		KindaCat(k2) = new Tiger();
+		KindaCat k2 = new Tiger();
 		method(k2);
 		
 		Tiger t = new Tiger(); //타이거를 직접 넣음
@@ -20,7 +20,7 @@ public class A05Parameter {
 		method(new Tiger());
 	}
 	
-	public static void merhod(KindaCat k) {
+	public static void method(KindaCat k) {
 		k.cry();
 	}
 }
